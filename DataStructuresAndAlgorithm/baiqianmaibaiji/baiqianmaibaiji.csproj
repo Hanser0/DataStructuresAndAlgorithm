@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C8D0CCB4-A1B4-4773-BDD9-18A6DC82ADBF}</ProjectGuid>
+    <ProjectGuid>{25683685-8BA0-4CDA-B7D1-84A1D8A8728A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>DataStructuresAndAlgorithm</RootNamespace>
-    <AssemblyName>DataStructuresAndAlgorithm</AssemblyName>
+    <RootNamespace>baiqianmaibaiji</RootNamespace>
+    <AssemblyName>baiqianmaibaiji</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,12 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Hello World.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="百钱买百鸡.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
