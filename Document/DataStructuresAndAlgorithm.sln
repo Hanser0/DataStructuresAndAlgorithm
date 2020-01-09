@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "baiqianmaibaiji", "baiqianm
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtificialIntelligence", "ArtificialIntelligence\ArtificialIntelligence.csproj", "{CBCAEC41-F86B-469C-BEA4-4AE50D7F9CEA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poker", "Poker\Poker.csproj", "{7C8E9753-6353-4325-9AFA-F79A9DE4D278}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{CBCAEC41-F86B-469C-BEA4-4AE50D7F9CEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CBCAEC41-F86B-469C-BEA4-4AE50D7F9CEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CBCAEC41-F86B-469C-BEA4-4AE50D7F9CEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C8E9753-6353-4325-9AFA-F79A9DE4D278}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C8E9753-6353-4325-9AFA-F79A9DE4D278}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C8E9753-6353-4325-9AFA-F79A9DE4D278}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C8E9753-6353-4325-9AFA-F79A9DE4D278}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
